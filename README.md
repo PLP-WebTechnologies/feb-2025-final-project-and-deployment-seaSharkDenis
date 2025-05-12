@@ -23,3 +23,12 @@ Use at least 5 different HTML elements.
 Ensure semantic correctness.
 
 Good luck and happy coding! 🚀💻
+
+# My Website Project
+
+This is a personal website built using HTML, CSS, and JavaScript. It includes interactive elements, and animations.
+
+## Live Demo
+
+You can view the live site here:  
+[https://ndiritublog.netlify.app/](https://ndiritublog.netlify.app/)
